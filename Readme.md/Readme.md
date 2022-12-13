@@ -2,7 +2,8 @@
 <h1>Deploy</h1>
 <h2>Features</h2>
 <h3>Products Features</h3>
-| Feature          | Coded | Description                            |
+
+| Feature          | Coded |           Description                  |
 |------------------|-------|----------------------------------------|
 | Add a Product    |       | Ability to Add a Product on the System |
 | List Products    |       | Ability to List Products               |
