@@ -19,6 +19,9 @@ nav ul{
   display: inline;
   list-style-type: none;
 }
+.logo{
+  margin-top: 25px;
+}
 nav ul li{
   display: inline-block;
   margin-right: 20px;
@@ -153,13 +156,18 @@ small{
  .testimonial .col-3{
   text-align: center;
   padding: 40px 20px;
+  box-shadow: 0 0 20px 0px rgb(0,0,0,0,1);
+  cursor: pointer;
+  transition: transform 0.5s;
  }
  .testimonial .col-3 img{
   width: 50px;
   margin-top: 20px;
   border-radius: 50%;
  }
- 
+ .testimonial .col-3:hover{
+  transform:translateY(-10px)
+ }
 
 
 
