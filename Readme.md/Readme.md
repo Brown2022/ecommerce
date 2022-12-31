@@ -102,6 +102,7 @@ Note
 
 
 .: You also can clean the sources and rebuild the sources by running
+
 ```grailsw clean
 ```
 <strong>Running Test Cases</strong>
