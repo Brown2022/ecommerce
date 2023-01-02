@@ -193,7 +193,7 @@ small{
   border: 1px solid #ccc;
 }
 form .btn{
-  width: 100px;
+  width: 100%;
   border: none;
   cursor: pointer;
   margin: 10px 0;
@@ -220,11 +220,8 @@ form a{
   transition: transform 1s;
 }
 
-
-
-
-
  /*------- testimonial --------*/
+
  .testimonial{
   padding-top: 30px;
  }
@@ -467,6 +464,9 @@ margin-left: 10px;
 }
 
 /*-------- cart item page-----*/
+.cart-icon{
+  cursor: pointer;
+}
 .cart-page{
   margin: 80px auto;
 }
